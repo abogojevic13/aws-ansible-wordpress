@@ -1,2 +1,2 @@
 # aws-ansible-wordpress
-Deployment Wordpress on AWS with Ansible
+Wordpress deployment on AWS with Ansible
