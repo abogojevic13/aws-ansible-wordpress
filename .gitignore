@@ -1,0 +1,4 @@
+*.pub
+*.csv
+*.pem
+auth*
